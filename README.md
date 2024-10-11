@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/user-attachments/assets/64c8384c-fbce-4516-b22d-906222cdfa3f)
 
-Simple bash script which kdocker to emulate whatsapp app utility, not originally available on linux.
+Simple bash script which kdocker to emulate whatsappapp application, not originally available on linux.
 
 
 ## Requirements
