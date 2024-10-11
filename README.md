@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/user-attachments/assets/64c8384c-fbce-4516-b22d-906222cdfa3f)
 
-Simple bash script which kdocker to emulate whatsappapp application, not originally available on linux.
+Simple bash script which kdocker to emulate whatsappapp application, not originally available on linux. <br />
 
 
 ## Requirements
@@ -10,9 +10,9 @@ Simple bash script which kdocker to emulate whatsappapp application, not origina
     sudo apt install chromium
 
 ## Usage
-The script must be added as a startup script from the KDE settings.
-Don't close the window, rather suspend it, otherwise kdocker will have to restart.
-To have the icon in the system tray, place it in your home folder.
+The script must be added as a startup script from the KDE settings. <br />
+Don't close the window, rather suspend it, otherwise kdocker will have to restart. <br />
+To have the icon in the system tray, place it in your home folder. <br />
 
 ### Script 
     
