@@ -7,6 +7,7 @@ Simple bash script which kdocker to emulate whatsappapp application, not origina
 
 ## Requirements
     sudo apt install kdocker
+    sudo apt install chromium
 
 ## Usage
 The script must be added as a startup script from the KDE settings.
