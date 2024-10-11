@@ -11,6 +11,7 @@ Simple bash script which kdocker to emulate whatsappapp application, not origina
 ## Usage
 The script must be added as a startup script from the KDE settings.
 Don't close the window, rather suspend it, otherwise kdocker will have to restart.
+To have the icon in the system tray, place it in your home folder.
 
 ### Script 
     
